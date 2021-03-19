@@ -5,6 +5,3 @@ Install Django version > 2.2
 Open manage.py file in command prompt.
 Run command : py manage.py runserver
 
-ADMIN ID AND PASSWORD
-userid : sns5154
-password : Sugen@123
